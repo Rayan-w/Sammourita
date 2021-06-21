@@ -33,7 +33,7 @@
 ### Contact Me/Connect With Me
 
 <p>
-<button><a href="https://www.linkedin.com/in/khalil-sammour-3186b0205/">LinkedIn<img src="https://image.flaticon.com/icons/png/512/174/174857.png">     -</a></button>
+<button><a href="https://www.linkedin.com/in/khalil-sammour-3186b0205/">LinkedIn<img src="https://image.flaticon.com/icons/png/512/174/174857.png" style="width: 50px">     -</a></button>
 <button><a href="https://www.instagram.com/sammour_khalil/">Instagram          -</a></button>
 <button><a href="mailto:khalil.almortada@hotmail.com">Email-Me📧</a></button>
 </p> 
