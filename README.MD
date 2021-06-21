@@ -10,5 +10,5 @@
 <p>
 <button><a href="https://www.linkedin.com/in/khalil-sammour-3186b0205/">LinkedIn  </a></button>
 <button><a href="https://www.instagram.com/sammour_khalil/">Instagram  </a></button>
-<button><a href="mailto:khalilalmortada@hotmail.com">Email-Me</a></button>
+<button><a href="mailto:khalil.almortada@hotmail.com">Email-Me</a></button>
 </p> 
