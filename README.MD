@@ -6,8 +6,19 @@
 <li>Passionate In Programming</li>
 <li>Passionate In Film Making</li>
 </ul>
-<h1>Skills</h1>
-<input type="checkbox" value="html">
+
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
 
 <h1>Contact Me-Connect With Me</h1>
 
