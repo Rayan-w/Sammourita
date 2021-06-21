@@ -16,6 +16,9 @@
 - [x] Css
 
 <h1>Contact Me-Connect With Me</h1>
+- [ ] Item A
+- [x] Item B
+- [x] Item C
 <p>
 <button><a href="https://www.linkedin.com/in/khalil-sammour-3186b0205/">LinkedIn  </a></button>
 <button><a href="https://www.instagram.com/sammour_khalil/">Instagram  </a></button>
