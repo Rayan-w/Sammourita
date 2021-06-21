@@ -6,6 +6,15 @@
 <li>Passionate In Programming</li>
 <li>Passionate In Film Making</li>
 </ul>
+<h1>Skills</h1>
+- [x] Html
+- [x] Css
+- [x] Css
+- [x] Css
+- [x] Css
+- [x] Css
+- [x] Css
+
 <h1>Contact Me-Connect With Me</h1>
 <p>
 <button><a href="https://www.linkedin.com/in/khalil-sammour-3186b0205/">LinkedIn  </a></button>
