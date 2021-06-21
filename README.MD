@@ -1,13 +1,13 @@
 <h1>Khalil Sammour 💻</h1>
 <ul>
                
-<li>Ambition</li>
-<li>High School Student(Grade 11)</li>
-<li>Passionate In Programming</li>
-<li>Passionate In Film Making</li>
+<li>Ambition🚀</li>
+<li>High School Student(Grade 11)📚 </li>
+<li>Passionate In Programming👨‍💻</li>
+<li>Passionate In Film Making📷</li>
 </ul>
 
-### Skills-Programming
+### Skills-Programming🖥️
 
 - [x] Html
 - [x] Css
@@ -20,7 +20,7 @@
 - [x] Socket.io
 - [ ] Flutter
 - [ ] React
-### Skills-VideoEditing
+### Skills-VideoEditing🎥
 
 - [x] Premiere Pro
 - [x] After Effects
@@ -33,7 +33,7 @@
 ### Contact Me/Connect With Me
 
 <p>
-<button><a href="https://www.linkedin.com/in/khalil-sammour-3186b0205/">LinkedIn     -</a></button>
+<button><a href="https://www.linkedin.com/in/khalil-sammour-3186b0205/">LinkedIn<img src="https://image.flaticon.com/icons/png/512/174/174857.png">     -</a></button>
 <button><a href="https://www.instagram.com/sammour_khalil/">Instagram          -</a></button>
-<button><a href="mailto:khalil.almortada@hotmail.com">Email-Me</a></button>
+<button><a href="mailto:khalil.almortada@hotmail.com">Email-Me📧</a></button>
 </p> 
