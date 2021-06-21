@@ -7,17 +7,19 @@
 <li>Passionate In Film Making</li>
 </ul>
 
-### Solar System Exploration, 1950s – 1960s
+### Skills-Programming
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [x] Html
+- [x] Css
+- [x] Javascript
+- [x] Semantic-Ui
+- [x] BootStrap
+- [x] Node.Js
+- [x] Express.Js
+- [x] MongoDb
+- [x] Socket.io
+- [ ] Flutter
+- [ ] React
 
 
 <h1>Contact Me-Connect With Me</h1>
