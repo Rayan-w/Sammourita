@@ -5,7 +5,6 @@
 <li>High School Student(Grade 11)📚 </li>
 <li>Passionate In Programming👨‍💻</li>
 <li>Passionate In Film Making📷</li>
-<li>Passionate In Changing The World🌎</li>
 </ul>
 
 ### Skills-Programming🖥️
