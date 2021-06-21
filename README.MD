@@ -20,6 +20,14 @@
 - [x] Socket.io
 - [ ] Flutter
 - [ ] React
+### Skills-VideoEditing
+
+- [x] Premiere Pro
+- [x] After Effects
+- [x] Camtasia
+- [x] Filmora
+- [x] Davinci-Resolve
+
 
 
 <h1>Contact Me-Connect With Me</h1>
