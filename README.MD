@@ -1,5 +1,6 @@
 <h1>🌌Khalil Sammour 💻</h1>
 <ul>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sammourita=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
                
 <li>Ambition🚀</li>
 <li>High School Student(Grade 11)📚 </li>
