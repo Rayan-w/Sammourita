@@ -6,7 +6,7 @@
 <ul>
                
 <li>Ambition🚀</li>
-<li>High School Student(Grade 11)📚 </li>
+<li>High School Student(Grade 12)📚 </li>
 <li>Passionate In Programming👨‍💻</li>
 <li>Passionate In Film Making📷</li>
 </ul>
